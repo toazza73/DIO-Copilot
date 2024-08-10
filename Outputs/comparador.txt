@@ -1,0 +1,5 @@
+A imagem mostra um diagrama de circuito eletrônico com três amplificadores operacionais LM324. Cada amplificador operacional possui um loop de feedback e está conectado a um diodo (D1, D2, D3) e a um resistor. O circuito é alimentado por uma fonte de 15V e possui três fontes de tensão diferentes, rotuladas como U1_V+, Vbat e outra fonte não rotulada fornecendo 10V e 8V. As tensões nos diodos são indicadas como Vo1, Vo2 e Vo3, cada uma com um valor de 13.6767 volts. Há também conexões de terra na parte inferior de cada amplificador operacional.
+
+Este tipo de circuito é provavelmente usado para regulação ou referência de tensão, pois utiliza diodos zener em conjunto com amplificadores operacionais para manter tensões de saída estáveis, apesar das variações na tensão de entrada ou nas condições de carga.
+
+O funcionamento deste circuito envolve os amplificadores operacionais mantendo a tensão de saída em um nível que mantém os diodos zener em sua região de ruptura, permitindo uma regulação precisa da tensão.
